@@ -6,10 +6,10 @@ public class Main {
                 "process, store and distribute information" +
                 "An information system is designed to collect, " +
                 "process, store and distribute information";
-        getUniq(text);
+        System.out.println(getUniq(text));
     }
 
-    public static void getUniq (String text) {
+    public static String getUniq (String text) {
         int index = 0;
         String res = "";
         while (index < text.length()) {
@@ -18,6 +18,6 @@ public class Main {
             }
             index++;
         }
-        System.out.println(res);
+        return res;
     }
 }
