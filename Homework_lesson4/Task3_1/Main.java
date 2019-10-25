@@ -1,11 +1,11 @@
 package Task3_1;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        String text = "An information system is designed to collect, " +
-                "process, store and distribute information" +
-                "An information system is designed to collect, " +
-                "process, store and distribute information";
+        Scanner sc = new Scanner (System.in);
+        String text = sc.nextLine();
         System.out.println(getUniq(text));
     }
 
