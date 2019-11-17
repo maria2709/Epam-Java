@@ -54,12 +54,6 @@ public class Main {
 			System.out.println();
 		}
 			while (line >= 1);
-				
-		
-				
-		
-		
-		
 		
 	}
 
