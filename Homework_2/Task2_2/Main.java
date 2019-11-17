@@ -6,9 +6,10 @@ public class Main {
 		int line = 5;
 		int i = 1;
 		int j = 0;
+		int n = 5;
 		do {
 			
-			while (j < 5 - line )
+			while (j < n - line )
 			{
 				System.out.print("  ");
 				j++;
