@@ -8,6 +8,7 @@ public class Main {
 		int line = 5;
 		int i = 0;
 		int j = 0;
+		int n = 5;
 		do {
 			while (j < line) {	
 				System.out.print("  ");
@@ -19,7 +20,7 @@ public class Main {
 				i++;
 			}
 			
-			while (i <= 5 - line);
+			while (i <= n - line);
 			
 			i = 0;
 			j = 0;
@@ -35,7 +36,7 @@ public class Main {
 		j = 0;
 		do {
 			
-			while (j <= 5 - line )
+			while (j <= n - line )
 			{
 				System.out.print("  ");
 				j++;
