@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] arg__s) {
 		int line = 1;
 		int i = 1;
+		int size = 6;
 		do {
 			do {	
 				System.out.print("* ");
@@ -18,10 +19,10 @@ public class Main {
 			line++;
 
 		}  
-		while (line <= 6);
+		while (line <= size);
 		
 		i = 1;
-	//	line = 5;
+
 		do {
 			do {	
 				System.out.print("* ");
