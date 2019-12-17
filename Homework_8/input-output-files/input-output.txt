@@ -1,0 +1,9 @@
+ID = 1, Title = Tom Sawer, Author = Mark Twen, Publisher = Story House, Year = 1985, Number of pages = 444, Price = 154.8
+ID = 2, Title = 780000 pigs, Author = Grimmade, Publisher = Publishing House, Year = 2011, Number of pages = 447, Price = 154.8
+ID = 3, Title = Java for kids 2, Author = Fain, Publisher = Programming, Year = 2019, Number of pages = 350, Price = 30.84
+ID = 4, Title = Java for kids, Author = Fain, Publisher = Programming, Year = 2015, Number of pages = 350, Price = 30.84
+ID = 5, Title = 78 pigs, Author = Grimmade, Publisher = Publishing House, Year = 2011, Number of pages = 447, Price = 120.0
+ID = 6, Title = Java for kids 2, Author = Fain, Publisher = Programming, Year = 2019, Number of pages = 350, Price = 30.84
+ID = 7, Title = Aliceeeee, Author = Carrol, Publisher = Publishing House, Year = 2001, Number of pages = 247, Price = 38640.0
+ID = 8, Title = Java for kids 2222, Author = Fain Jun., Publisher = Programming, Year = 2019, Number of pages = 350, Price = 30.84
+ID = 9, Title = Java for kids 2222, Author = Fain Jun., Publisher = Programming, Year = 2019, Number of pages = 350, Price = 30.94
